@@ -2,4 +2,4 @@
 
 ![img1](Complex_mul1.png)
 
-|[img2](Complex_mul2.png)
+![img2](Complex_mul2.png)
